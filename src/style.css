@@ -1,0 +1,48 @@
+label {
+  display: block;
+  margin: 1vh 0;
+}
+
+.form-container {
+  text-align: center;
+}
+
+.input-container {
+  margin-top: 2vh;
+}
+
+#title-book,
+#author-book,
+#isbn-book {
+  width: 14vw;
+  height: 2vh;
+}
+
+.btn-submit {
+  margin: 2vh 0;
+  width: 13vw;
+}
+
+#separator {
+  width: 45vw;
+  color: lightslategray;
+  margin: 6vh 26vw;
+}
+
+#table {
+  width: 100%
+}
+
+
+.success,
+.error {
+  color: white;
+}
+
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
